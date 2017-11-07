@@ -7,7 +7,7 @@ title = "Frequently Asked Questions (FAQ)"
 summary = """Troubleshoot common issues."""
 +++
 
-Common questions and answers will be listed here.
+Questions courantes et answers will be listed here.
 
 **I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site**
 
